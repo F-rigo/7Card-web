@@ -1,0 +1,2 @@
+// intelisense
+/// <reference types="Cypress" />
